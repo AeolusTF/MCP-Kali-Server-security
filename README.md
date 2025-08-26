@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/3ec06ff8-0bdf-4ad5-be71-2ec490b7ee27
 ### 在您的 Linux 机器上（将充当 MCP 服务器）
 
 ```bash
-git clone https://github.com/Wh0am123/MCP-Kali-Server.git
+git clone https://github.com/AeolusTF/MCP-Kali-Server-security.git
 cd MCP-Kali-Server
 python3 kali_server.py
 ```
