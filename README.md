@@ -7,7 +7,7 @@
 
 **V1.0版本**是https://github.com/Wh0am123/MCP-Kali-Server.git 的**原版**，不做多介绍
 
-此版本为**V2.0版本**是根据https://github.com/Wh0am123/MCP-Kali-Server.git **为基础，进行了更改，完善了数据传输方面的安全风险。**
+此版本为**V2.0版本**是根据https://github.com/Wh0am123/MCP-Kali-Server.git **为基础，进行了再开发，完善了数据传输方面的安全风险。**
 
 ## 我关于此工具的 文章
 
