@@ -6,6 +6,7 @@
 此外，它还能执行**AI 辅助渗透测试**，实时解决**CTF Web 挑战**，帮助**解决 HTB 或 THM 中的机器问题**。
 
 **V1.0版本**是https://github.com/Wh0am123/MCP-Kali-Server.git的**原版**，不做多介绍
+
 此版本为**V2.0版本**是根据https://github.com/Wh0am123/MCP-Kali-Server.git**为基础，进行了更改，完善了数据传输方面的安全风险。**
 
 ## 我关于此工具的 文章
