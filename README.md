@@ -100,6 +100,7 @@ edit (C:\Users\USERNAME\AppData\Roaming\Claude\claude_desktop_config.json)
             "command": "python3",
             "args": [
                 "/absolute/path/to/mcp_server.py",
+                "--server",
                 "http://LINUX_IP:5000/"
             ]
         }
